@@ -3,3 +3,4 @@
 This project is one of the classroom competitions for the "Introduction to Data Science" course at National Cheng Kung University (113-1 semester). It was jointly developed with che092.
 
 方法：使用boosting => bagging => stacking
+在課堂排名中獲得 21 名(共68組)
